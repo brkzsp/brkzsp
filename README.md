@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## I'm Kauê Braga
+- I live 🇧🇷 , northeast 🕶️🌇
+- looking for a job 💢:computer:
 <!--
 **brkzsp/brkzsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
