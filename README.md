@@ -10,7 +10,7 @@
 
 
 ## I'm a Full Stack Developer, Student and Entrepreneur.
-<img align='right' src='download.svg' width='400"'>
+
 
 ## About me:
 Programming student focused on Full Stack Passionate about the best web and mobile development technologies. 
