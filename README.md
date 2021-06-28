@@ -49,9 +49,6 @@ Programming student focused on Full Stack Passionate about the best web and mobi
 
 
 
-
-
-[twitter]: https://twitter.com/gustavoabeell
-[youtube]: https://www.youtube.com/channel/UC_PV5AtUjFszAzP633uBqMA
-[instagram]: https://instagram.com/gustavoabell_
-[linkedin]: https://www.linkedin.com/in/gustavoabel10/
+[youtube]: https://www.youtube.com/channel/UCbrkHuOqJEkWFOVIfA0YjXA
+[instagram]: https://www.instagram.com/brkzz__/
+[linkedin]: https://www.linkedin.com/in/kau%C3%AA-braga/
