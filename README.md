@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavoabell" alt="brkzsp" /> </p>
 
 
-## Hello! My name is Kauê G. Braga, I'm a Software Developer student from brazil, passionate about programming, technology, games and coffe! 👋
+## Hello! My name is Kauê G. Braga, I'm a Software Developer student from brazil, passionate about programming, technology, games and coffe!👨🏻‍💻
  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="950px" height="300" />
 
 
